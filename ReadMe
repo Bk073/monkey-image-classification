@@ -1,1 +1,5 @@
-ReadMe
+- Analysing different CNN models for transfer learning in real world scenarios
+- Efficiently handling and training model on real world data
+
+
+- Quantization of model to efficiently deploy
